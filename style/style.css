@@ -284,6 +284,7 @@ body {
     width: auto;
   }
   .contacts-title {
+    font-size:23px;
     text-align: center;
   }
   .contacts-img {
@@ -352,6 +353,8 @@ body {
    .phone {
     position: relative;
     z-index: 50;
+    font-size: 22px;
+    width:auto;
    }
    .btn-line {
     position: absolute;
